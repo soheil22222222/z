@@ -99,9 +99,9 @@ end
 
 return {
 	patterns = {
-	    "^#bot? (on)$",
-            "^#bot? (off)$",
-	    "^#bot? (up)$",
+	    "^[/!#]bot? (on)$",
+            "^[/!#]bot? (off)$",
+	    "^[/!#]bot? (up)$",
 	    "^#bot (rl)$",
 	    },
 	run = run,
