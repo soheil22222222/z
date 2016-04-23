@@ -6,6 +6,8 @@ local sudos = {
  	"setname",
  	"description",
 	"kick",
+        "Spam",
+        "spam2",
 	"settings",
 	"pre_process",
 	"add",
