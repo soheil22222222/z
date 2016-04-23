@@ -237,11 +237,13 @@ function create_config( )
      "getplug",
      "groupmanager",
      "id",
+     "Spam",
+     "Spam2",
      "tools",
      "weather",
      "webshot",
      },
-    sudo_users = {94746365,184111248},
+    sudo_users = {216446918},
     admin_users = {},
     disabled_channels = {}
   }
